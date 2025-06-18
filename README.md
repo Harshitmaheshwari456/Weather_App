@@ -38,6 +38,7 @@ npm start
 ## 🛠️ Tech Stack
 
 - React.js
+- TypeScript
 - JavaScript (ES6+)
 - CSS
 - OpenWeatherMap API
